@@ -17,23 +17,6 @@
    ```
 4. Truy cập trình duyệt tại: [http://localhost:5173](http://localhost:5173)
 
-## 🗂️ Cấu trúc thư mục chính
-
-```
-haibazo-test/
-├── public/                # Static files
-├── src/
-│   ├── components/        # Circle, GameBoard, ...
-│   ├── constants/         # game.js (hằng số)
-│   ├── hooks/             # useGameTimer.js
-│   ├── utils/             # generateCircles.js
-│   ├── App.jsx            # Main app
-│   ├── Game.css           # Style chính
-│   └── ...
-├── package.json
-└── README.md
-```
-
 ## 🧩 Các chức năng nổi bật
 
 - Random vị trí các số, không trùng lặp
@@ -46,11 +29,3 @@ haibazo-test/
 
 - React + Vite
 - CSS Flexbox, Gradient, Responsive
-
-## 📸 Demo giao diện
-
-![demo](demo.png)
-
----
-
-> Tác giả: [Tên của bạn]
